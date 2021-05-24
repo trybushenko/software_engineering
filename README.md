@@ -68,5 +68,10 @@ Google випустив BERT - Bidirectional Encoder Representations from Transf
 Прості програми включають поліпшення охоплення систем, які ініціюють поведінку певних ключових слів, фраз або висловлювань.
 
 ## 4. Виконання програми.
+### 1) ![alt text](https://sun9-57.userapi.com/impg/lBAs4WkgnQKfQ4ag52fAiUvoZBbHXeP-mG7OIQ/dWBn0IFysAs.jpg?size=1007x808&quality=96&sign=69d16e41d772f79d977c0bebaf0e2ec1&type=album)
+### 2) Вводимо речення, які ми хочемо синтаксично аналізувати і тиснемо "Analyze sentences".![alt text](https://sun9-44.userapi.com/impg/66QoMhK5EyAkQWrmzMIkUE4LD6yEoUyYZq2JSg/gNixl2B127I.jpg?size=1002x466&quality=96&sign=0b22e92835cbdc2df683fad29533e6c7&type=album)
+### 3) Бачимо сгруповані речення по змісту. ![alt text](https://sun9-22.userapi.com/impg/pQsljJkx_CqGtbE7Mf7nbyGOwDWFXSHKtUmBXg/MRmg7XYiNGA.jpg?size=1004x750&quality=96&sign=2146f266c93f36823add79b3e93247ee&type=album)
+### 4) Бачимо карту кольорів, яка побудована на матриці кореляції речень один з одним. ![alt text](https://sun9-63.userapi.com/impg/SrJiJjbRgY4vx0mQqFNEhJWc6V-Nku48QcW0vw/uW9ju7kSE_E.jpg?size=998x418&quality=96&sign=182796ec509aaf1d4eafa525d871ef78&type=album)
+
 
 Методичні вказівки(https://jace-dev.herokuapp.com/design/js-talks#/)
