@@ -74,7 +74,7 @@ Google випустив BERT - Bidirectional Encoder Representations from Transf
 ### 4) Бачимо карту кольорів, яка побудована на матриці кореляції речень один з одним. ![alt text](https://sun9-63.userapi.com/impg/SrJiJjbRgY4vx0mQqFNEhJWc6V-Nku48QcW0vw/uW9ju7kSE_E.jpg?size=998x418&quality=96&sign=182796ec509aaf1d4eafa525d871ef78&type=album)
 
 ## 5. Як запустити проект на localhost?
-### 1) Відкриваємо термінал в директорії, куда ми хочему клонувати даний репозиторій.
+### 1) Відкриваємо термінал в директорії, куда ми хочемо клонувати даний репозиторій.
 ### 2) Вводимо команду "git clone https://github.com/trybushenko/software_engineering"
 ### 3) Переконавшись, що Node.js встановалена на комп'ютері, запускаємо локальний сервер, запустивши команду "live-server"
 ### 4) Profit! Проект успішно працює і аналізує ваші англомовні речення на схожість між собою.
